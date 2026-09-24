@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkv_08"]=globalThis["webpackChunkv_08"]||[]).push([[840],{6840:(t,a,e)=>{e.r(a),e.d(a,{default:()=>i});var n=e(9835);const s={class:"empty-layout"};function u(t,a,e,u,o,r){const c=(0,n.up)("router-view");return(0,n.wg)(),(0,n.iD)("div",s,[(0,n.Wm)(c)])}const o={name:"EmptyLayout"};var r=e(1639);const c=(0,r.Z)(o,[["render",u]]),i=c}}]);

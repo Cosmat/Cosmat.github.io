@@ -1,0 +1,11 @@
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/js/*
+  Cache-Control: public, max-age=60, must-revalidate
+
+/css/*
+  Cache-Control: public, max-age=60, must-revalidate
+
+/config.js
+  Cache-Control: public, max-age=0, must-revalidate
